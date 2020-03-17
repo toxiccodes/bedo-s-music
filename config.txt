@@ -1,0 +1,6 @@
+﻿token= Njg5NTQwNjYxMzg0MzE0OTM2.XnEYxA.RwgromLipE3X8aoM39bznMyqOz8
+owner= 636514348491079680
+prefix= b
+game= !bhelp
+stayinchannel=ture
+songinstatus=true 
